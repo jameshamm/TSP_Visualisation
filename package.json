@@ -1,0 +1,23 @@
+{
+  "name": "tsp_visualisation",
+  "description": "Shows optimal solutions to small TSP problems",
+  "version": "0.1.0",
+  "main": "./main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "electron": "^1.6.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameshamm/TSP_Visualisation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameshamm/TSP_Visualisation/issues"
+  },
+  "homepage": "https://github.com/jameshamm/TSP_Visualisation#readme"
+}
